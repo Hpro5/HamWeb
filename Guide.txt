@@ -1,0 +1,14 @@
+Welcome to HamGuide!
+In HamWeb, we belive that every HamPage Needs to be simple
+and modern, so we made it that any detailed page will get 
+a Cup TLD.
+- Step 1:
+Create a Name and a .txt file for your HamPage.(it should be named [domain].txt)
+- Step 2:
+Find a Domain that fits your file contents.
+- Step 3:
+Go to https://forms.gle/1Lf77mCZf6tGfHqD8 and fill the fourm.
+- Step 4:
+Wait...
+- Step 5:
+Congatulations! you made a HamPage!
